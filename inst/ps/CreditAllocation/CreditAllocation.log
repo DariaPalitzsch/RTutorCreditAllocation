@@ -1,0 +1,6 @@
+{"type":["init_ps"],"time":["2026-11-03 15:27:22"],"user":["default_user"],"umph":[1793716042.859],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2026-11-03 15:27:44"],"user":["default_user"],"umph":[1793716064.4059],"ok":[true],"chunk":[1],"ex":[2],"e.ind":[0],"code":["data <- readRDS(\"Data.rds\")"],"message":[""]}
+,
+{"type":["check_chunk"],"time":["2026-11-03 15:27:46"],"user":["default_user"],"umph":[1793716066.5107],"ok":[true],"chunk":[1],"ex":[2],"e.ind":[0],"code":["data <- readRDS(\"Data.rds\")"],"message":[""]}
+,
