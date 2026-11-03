@@ -4,3 +4,5 @@
 ,
 {"type":["check_chunk"],"time":["2026-11-03 15:27:46"],"user":["default_user"],"umph":[1793716066.5107],"ok":[true],"chunk":[1],"ex":[2],"e.ind":[0],"code":["data <- readRDS(\"Data.rds\")"],"message":[""]}
 ,
+{"type":["init_ps"],"time":["2026-11-03 15:47:30"],"user":["default_user"],"umph":[1793717250.4528],"ok":[true]}
+,
