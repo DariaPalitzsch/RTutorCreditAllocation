@@ -44,8 +44,8 @@ Welcome to my Problem Set, which is part of my master thesis at the University o
 
 The problem set is published here:
 
-- **GitHub:**
-- **ShinyApps:**
+- **GitHub:**: https://github.com/DariaPalitzsch/RTutorCreditAllocation.git
+- **ShinyApps:**: 
 
 Imagine credit expanding in two countries. In one, much of the additional lending reaches firms producing goods and services for international markets. In the other, it is concentrated among households and businesses serving domestic demand, such as construction companies and local service providers. How might these different borrowing patterns be related to GDP growth in the years afterwards?
 
